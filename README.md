@@ -13,4 +13,4 @@
 1. First you need to Download yolov3.weights from [here](https://pjreddie.com/media/files/yolov3.weights) and place it into the root folder.
 2. Then you need to specify an absolute path for any image you wish to detect in the 7th cell.
 3. Then run the file, you will see a new image with the window, when you close that window you will see the image in the Vehicle Images After Detection.
-4. You may need to manually stop the notebook with the stop button.
+4. You can exit by pressing the esc key.
